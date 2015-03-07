@@ -23,6 +23,8 @@ public class PrimeNumber {
 						break;
 					}
 				}
+				
+				
 
 				if (i == num) {
 					System.out.println("Number is Prime");
