@@ -9,6 +9,12 @@ public class PrimeNumber {
 		String flag;
 		do {
 			search: {
+
+
+
+
+
+
 				sc = new Scanner(System.in);
 				System.out.print("Enter number to check: ");
 				int num = sc.nextInt();
